@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package boletin23;
 
 import java.awt.BorderLayout;
@@ -16,10 +12,7 @@ import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-/**
- *
- * @author Pablo
- */
+
 public class boletin23 extends JFrame{
 
     public static void main (String[] args){
